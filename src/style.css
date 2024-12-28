@@ -1,0 +1,6 @@
+.centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /* Ajustez la largeur selon vos besoins */
+}
